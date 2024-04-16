@@ -33,16 +33,6 @@ I'm a Backend Software Enginner passionate about Web Development and Cloud.
 - **Adaptability:**
   - Quick learner who readily embraces new technologies, methodologies, and responsibilities to stay ahead of the curve.
 
-### 🎯 Additional Skills
-- **Project Management:**
-  - Proficient in project management methodologies such as Agile and Scrum, with experience leading cross-functional teams to deliver successful projects on time and within budget.
-- **Leadership:**
-  - Demonstrated leadership capabilities in guiding and motivating teams to achieve their full potential, fostering a culture of collaboration, accountability, and continuous improvement.
-- **Creativity:**
-  - Passionate about exploring new concepts, experimenting with different tools and techniques, and pushing the boundaries of conventional thinking to drive breakthrough outcomes.
-- **Attention to Detail:**
-  - Meticulous attention to detail demonstrated through thorough analysis, documentation, and quality assurance processes, ensuring accuracy and precision in all tasks and deliverables. 
-
 ## 🔍 Find Me Online
 [Personal Website/Blog](Your Website URL)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/devmaiko/)
