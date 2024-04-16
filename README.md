@@ -9,6 +9,8 @@ I'm a Backend Software Enginner passionate about Web Development and Cloud.
 - 📫 How to reach me: guivini8@gmail.com
 
 ## 🛠️ Skills
+[![JavaScript](https://skillicons.dev/icons?i=js,typescript,nodejs,express,sequelize,nestjs,git,postgres,mysql,firebase,aws,gcp,docker,jest)](https://skillicons.dev)
+
 
 ### 🚀 Technical Skills
 - **Programming Languages:** JavaScript and TypeScript.
@@ -42,5 +44,6 @@ I'm a Backend Software Enginner passionate about Web Development and Cloud.
   - Meticulous attention to detail demonstrated through thorough analysis, documentation, and quality assurance processes, ensuring accuracy and precision in all tasks and deliverables. 
 
 ## 🔍 Find Me Online
-- [Personal Website/Blog](Your Website URL)
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devmaiko/)
+[Personal Website/Blog](Your Website URL)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/devmaiko/)
+
