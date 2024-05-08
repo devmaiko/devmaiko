@@ -34,6 +34,6 @@ I'm a Backend Software Enginner passionate about Web Development and Cloud.
   - Quick learner who readily embraces new technologies, methodologies, and responsibilities to stay ahead of the curve.
 
 ## 🔍 Find Me Online
-[Personal Website/Blog(https://skillicons.dev/icons?i=html)](https://guilherme-santos.com/)
+[![LinkedIn](https://skillicons.dev/icons?i=html)](https://guilherme-santos.com/)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/devmaiko/)
 
